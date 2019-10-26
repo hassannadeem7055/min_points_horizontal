@@ -15,8 +15,6 @@ int minpoints(int size, int arr[][2]){
     set<int> temp;
     set<int> disjoint;
 
-    //  populate the points with first set
-
     for (int i=0; i<size; i++){
         temp.clear();
         disjoint.clear();
