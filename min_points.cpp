@@ -1,3 +1,4 @@
+//  AUTHOR: hassannadeem7055, hassannadeem705@gmail.com
 //  min points need to represent sets of horizontal-axis range points
 //  part of an online test
 #include <iostream>
