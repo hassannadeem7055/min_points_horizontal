@@ -8,11 +8,6 @@
 
 using namespace std;
 
-int generator(){
-    int i=0;
-    return ++i;
-}
-
 int minpoints(int size, int arr[][2]){
     int count_points=0;     //  points needed to represent line
 
